@@ -61,13 +61,23 @@ Common challenges:
     ⚙️ : Framework
 
 ## Application
+![](images/image01.png)
+
+![](images/image02.png)
+
+
+
 ### Main 📂
+![](images/image03.png)
 It contains application specific classes (`AppDelegate`, `SceneDelegate`, `Main Entry Controller`, `DI Factories`)
 
 ### Files 📂
+![](images/image04.png)
 It contains application specific `resources` (`images`, `Localizable`, `Info.plist`)
 
 ### Features 📂
+![](images/image05.png)
+
 #### Login ⚙️
 >1. Presentation 📂
 >>1. Models 📂
@@ -84,6 +94,8 @@ It contains application specific `resources` (`images`, `Localizable`, `Info.pli
 #### Notification ⚙️ 
 
 ## CommonUI ⚙️
+![](images/image05.png)
+
 ### Fields Validation 📂
 The main class is `ValidationComposite`, which uses *Composite* pattern to easily extend functionality and without actually modifying it (Open-Closed principle)
 
