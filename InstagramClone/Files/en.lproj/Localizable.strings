@@ -1,0 +1,20 @@
+/* 
+  Localizable.strings
+  InstagramClone
+
+  Created by Carlos Matias Tripode on 5/16/21.
+  
+*/
+
+"app_title" = "Instagram Clone";
+
+"username_placeholder" = "Username";
+"email_placeholder" = "Email";
+"password_placeholder" = "Password";
+"fullname_placeholder" = "Fullname";
+"login_button" = "Log in";
+"signup_button" = "Sign up";
+"donthaveaccount_1_button" = "Don't have an account?";
+"donthaveaccount_2_button" = "Sign up";
+"forgotpasswordbutton_1_button" = "Forgot your password?";
+"forgotpasswordbutton_2_button" = "Get help signing in.";
