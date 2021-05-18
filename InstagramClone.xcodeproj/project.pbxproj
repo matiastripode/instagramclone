@@ -338,8 +338,8 @@
 				2CF894862651FA3A0016B0A2 /* Profile */,
 				2CF894842651FA1C0016B0A2 /* Search */,
 				2CF893E2265176F00016B0A2 /* Feed */,
-				2CBC976A26515A3300DD6189 /* Registration */,
 				2C48AC8726500C4D0081732C /* Login */,
+				2CBC976A26515A3300DD6189 /* Registration */,
 			);
 			path = Features;
 			sourceTree = "<group>";
