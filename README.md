@@ -1,4 +1,5 @@
 # Instagram Clone
+[![Build Status](https://travis-ci.com/matiastripode/instagramclone.svg?branch=main)](https://travis-ci.com/matiastripode/instagramclone)
 
 ## iOS Mobile Architecture at scale.
 
