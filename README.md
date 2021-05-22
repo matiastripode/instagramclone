@@ -68,11 +68,14 @@ Folder structure
 ![](images/image02.png)
 
 ### Screens
-Login
-![](images/screens/login01.png)
+*Login*
 
-Registration
-![](images/screens/registration01.png)
+<img src="images/screens/login01.png" width="250" height="500">
+
+*Registration*
+
+<img src="images/screens/registration01.png" width="250" height="500">
+
 
 ### Main 📂
 ![](images/image03.png)
