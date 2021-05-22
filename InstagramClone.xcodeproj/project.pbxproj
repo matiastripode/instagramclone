@@ -1220,7 +1220,7 @@
 				MACOSX_DEPLOYMENT_TARGET = 10.15;
 				PRODUCT_BUNDLE_IDENTIFIER = com.matiastripode.CommonInfraTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SDKROOT = macosx;
+				SDKROOT = iphoneos;
 				SWIFT_VERSION = 5.0;
 			};
 			name = Debug;
@@ -1239,7 +1239,7 @@
 				MACOSX_DEPLOYMENT_TARGET = 10.15;
 				PRODUCT_BUNDLE_IDENTIFIER = com.matiastripode.CommonInfraTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SDKROOT = macosx;
+				SDKROOT = iphoneos;
 				SWIFT_VERSION = 5.0;
 			};
 			name = Release;
