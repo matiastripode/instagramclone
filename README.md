@@ -62,11 +62,17 @@ Common challenges:
     ⚙️ : Framework
 
 ## Application
+Folder structure
 ![](images/image01.png)
 
 ![](images/image02.png)
 
+### Screens
+Login
+![](images/screens/login01.png)
 
+Registration
+![](images/screens/registration01.png)
 
 ### Main 📂
 ![](images/image03.png)
