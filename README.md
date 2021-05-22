@@ -62,10 +62,19 @@ Common challenges:
     ⚙️ : Framework
 
 ## Application
+Folder structure
 ![](images/image01.png)
 
 ![](images/image02.png)
 
+### Screens
+*Login*
+
+<img src="images/screens/login01.png" width="250" height="500">
+
+*Registration*
+
+<img src="images/screens/registration01.png" width="250" height="500">
 
 
 ### Main 📂
