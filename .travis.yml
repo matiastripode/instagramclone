@@ -1,4 +1,7 @@
 language: swift
+osx_image: xcode12.5
 xcode_project: InstagramClone.xcodeproj # path to your xcodeproj folder
 xcode_scheme: CI
-xcode_destination: platform=iOS Simulator,OS=14.4,name=iPhone 11
+xcode_destination: platform=iOS Simulator,OS=14.5,name=iPhone 11
+
+
